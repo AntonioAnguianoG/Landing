@@ -251,7 +251,7 @@ header nav a:hover{
     }
     
 }
-@media screen and (max-width: 838px){
+@media screen and (max-width: 841px){
     .footer .grupo-1{
         width:90%;
         grid-template-columns: repeat(1, 1fr);
